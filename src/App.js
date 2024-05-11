@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h2>Hello World, this is my react pratie project</h2>
+      <hr />
       <BodyContent></BodyContent>
     </div>
   );

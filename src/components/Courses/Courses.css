@@ -1,3 +1,4 @@
-/* .Courses {
-    display: flex;
-} */
+.Courses {
+    max-width: 70vw;
+    margin-right: 15px;
+}
