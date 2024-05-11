@@ -1,105 +1,105 @@
 [
     {
         "courseName": "React Web Development",
-        "coursePrice": 35,
+        "coursePrice": 3500,
         "courseInstructor": "Nazim Howladar",
         "courseDetails": "Mastering React: Web Development Essentials is a comprehensive course designed to equip you with the skills and knowledge needed to become a proficient React developer. Whether you're a beginner or have some experience with React, this course will take you from foundational concepts to advanced techniques, helping you build dynamic and interactive web applications.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "JavaScript Fundamental",
-        "coursePrice": 78,
+        "coursePrice": 7800,
         "courseInstructor": "Jasim Miah",
         "courseDetails": "This course serves as an introduction to the foundational concepts of JavaScript programming. Participants will learn key concepts such as variables, data types, control structures (loops and conditionals), functions, and objects. Through hands-on exercises and projects, students will gain practical experience in writing and debugging JavaScript code. By the end of the course, participants will have a solid understanding of JavaScript fundamentals and be ready to apply their knowledge to more advanced topics.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Master VS Code",
-        "coursePrice": 65,
+        "coursePrice": 6500,
         "courseInstructor": "Yakub Sordar",
         "courseDetails": "This comprehensive course is designed to take your skills in Visual Studio Code (VS Code) to the next level. Whether you're a beginner looking to understand the basics or an experienced user aiming to unlock advanced features, this course has something for everyone. You'll learn how to customize your workspace, efficiently navigate through projects, utilize powerful extensions, and optimize your workflow for maximum productivity. By the end of the course, you'll be equipped with the knowledge and tools to harness the full potential of VS Code for your coding and development projects.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Photo Retouching Basic",
-        "coursePrice": 25,
+        "coursePrice": 2500,
         "courseInstructor": "Guerin Gauvin",
         "courseDetails": "This course is designed for beginners looking to develop fundamental skills in photo retouching. Students will learn essential techniques using industry-standard software to enhance and manipulate digital images. Topics covered include basic tools and functions, color correction, skin retouching, object removal, and image composition. Through hands-on exercises and projects, participants will gain practical experience in transforming photos while maintaining natural aesthetics. By the end of the course, students will have the knowledge and confidence to retouch photos effectively for various purposes, from personal projects to professional portfolios.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Logo Design Mastery",
-        "coursePrice": 77,
+        "coursePrice": 7700,
         "courseInstructor": "Gaetan Hervé",
         "courseDetails": "Unlock the secrets of impactful branding through our Logo Design Mastery course. Dive deep into the principles of graphic design, color theory, typography, and brand psychology to create logos that captivate and resonate. Learn industry-standard software like Adobe Illustrator and gain hands-on experience in crafting logos for diverse business needs. From conceptualization to execution, this course empowers you to create compelling visual identities that leave a lasting impression. Whether you’re a beginner or a seasoned designer, elevate your skills and unleash your creativity in the world of logo design.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Business Card and Stationary Design",
-        "coursePrice": 69,
+        "coursePrice": 6900,
         "courseInstructor": "Sam Noble",
         "courseDetails": "This course is designed to equip students with the skills and knowledge needed to create professional and visually appealing business cards and stationary designs. Students will learn fundamental design principles, typography, color theory, and software tools essential for designing impactful marketing materials. Through hands-on projects and industry-relevant assignments, participants will develop a portfolio showcasing their ability to create cohesive and effective branding materials for businesses.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Blender 3d Animation",
-        "coursePrice": 96,
+        "coursePrice": 9600,
         "courseInstructor": "Billy Hayes",
         "courseDetails": "Unlock the world of 3D animation with our comprehensive Blender course. Whether you're a beginner or looking to enhance your skills, this course covers everything from basic navigation to advanced rendering techniques. Dive into key concepts like modeling, texturing, rigging, and animation, empowering you to bring your creative visions to life. With hands-on projects and expert guidance, you'll master Blender's powerful tools and workflows, ready to create stunning animations for games, movies, and more. Join us and step into the exciting realm of 3D animation!",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "2d Animaion Maker",
-        "coursePrice": 38,
+        "coursePrice": 3800,
         "courseInstructor": "Riley Johnston",
         "courseDetails": "Explore the exciting world of 2D animation with our comprehensive course designed for beginners and intermediate learners. Discover the fundamental principles of animation, including timing, spacing, and motion, as you master industry-standard software like Adobe Animate and Toon Boom Harmony. Through hands-on projects and guided tutorials, you'll learn to create captivating characters, design compelling backgrounds, and bring your stories to life with dynamic movement and visual effects. Whether you're an aspiring animator, graphic designer, or storyteller, this course equips you with the skills and techniques to unleash your creativity and produce professional-quality 2D animations.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Digital Marketing",
-        "coursePrice": 78,
+        "coursePrice": 7800,
         "courseInstructor": "Gabriel Pope",
         "courseDetails": "This course is designed to equip students with the essential skills and knowledge needed to excel in the dynamic field of digital marketing. Covering a range of topics including search engine optimization (SEO), pay-per-click (PPC) advertising, social media marketing, email marketing, and content strategy, participants will learn how to develop effective digital marketing campaigns tailored to different platforms and audiences. Through hands-on projects, case studies, and industry-relevant tools, students will gain practical experience and insights into the latest trends and best practices in the digital marketing landscape. By the end of the course, graduates will be prepared to strategize, execute, and measure the success of digital marketing initiatives across various industries.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Vyond Explainer Video",
-        "coursePrice": 42,
+        "coursePrice": 4200,
         "courseInstructor": "Abby Ahmed",
         "courseDetails": "Our Vyond Explainer Video course is designed to empower individuals with the skills needed to create captivating and effective animated explainer videos using the Vyond platform. Whether you're a marketer, educator, or content creator, this course will guide you through the process of crafting engaging narratives, designing compelling characters and scenes, adding impactful animations and transitions, and optimizing your videos for maximum viewer engagement. By the end of this course, you'll have the knowledge and proficiency to produce professional-quality explainer videos that effectively communicate your message and captivate your audience.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Adobe Illustrator Course",
-        "coursePrice": 82,
+        "coursePrice": 8200,
         "courseInstructor": "Evan Ryan",
         "courseDetails": "Discover the power of Adobe InDesign with our comprehensive course designed for beginners and experienced designers alike. Learn to create stunning layouts for print and digital media, including magazines, brochures, eBooks, and more. Through hands-on projects and expert guidance, you'll explore InDesign's tools and techniques for typography, graphics, color management, and interactive elements. Dive into advanced topics such as master pages, styles, and exporting for different formats. By the end of this course, you'll have the skills to produce polished, professional designs that captivate audiences across various platforms.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Adobe InDesign Course",
-        "coursePrice": 57,
+        "coursePrice": 5700,
         "courseInstructor": "Andrew Archer",
         "courseDetails": "dddddddddddddd",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Motion Graphics",
-        "coursePrice": 67,
+        "coursePrice": 6700,
         "courseInstructor": "Kate Adams",
         "courseDetails": "This course is designed to introduce students to the exciting world of motion graphics, covering key concepts and techniques used in creating dynamic visual content. Through a blend of theory and hands-on practice, students will learn about animation principles, typography animation, visual effects, and storytelling through motion. By the end of the course, students will have developed a strong foundation in motion graphics and be equipped to create compelling animations for various media platforms.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Figma UI Development",
-        "coursePrice": 37,
+        "coursePrice": 3700,
         "courseInstructor": "Isabel Coles",
         "courseDetails": "Discover the power of Figma in creating stunning user interfaces (UI) with our comprehensive Figma UI Development course. Whether you're a beginner or an experienced designer, this course will equip you with the skills to design, prototype, and collaborate on UI projects efficiently. Learn how to leverage Figma's intuitive interface to create pixel-perfect designs, utilize its robust design systems for consistent UI elements, and master advanced prototyping techniques for interactive user experiences. By the end of this course, you'll have a strong foundation in Figma UI development and be ready to tackle real-world design challenges with confidence.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"
     },
     {
         "courseName": "Graphic Design",
-        "coursePrice": 73,
+        "coursePrice": 7300,
         "courseInstructor": "Mohammed Simpson",
         "courseDetails": "Explore the exciting world of Graphic Design through this comprehensive course. Learn essential design principles, color theory, typography basics, and layout techniques to create visually appealing and impactful designs. Dive into industry-standard software like Adobe Photoshop, Illustrator, and InDesign to bring your creative visions to life. Develop a professional portfolio showcasing your skills in logo design, branding, digital illustrations, and print materials. Gain insights into design trends, client communication, and project management for a successful career in Graphic Design.",
         "courseThumbnail": "https://th.bing.com/th/id/OIG3.MNsu8fp8bfx1mxREDwT5?pid=ImgGn"

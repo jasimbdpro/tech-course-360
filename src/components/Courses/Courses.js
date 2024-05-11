@@ -5,7 +5,7 @@ const Course = () => {
     const [course, setCourse] = useState([]);
     const [cartedCourse, setCartedCourse] = useState([]);
     useEffect(() => {
-        fetch('https://raw.githubusercontent.com/jasimbdpro/jasim-cdn/main/uploads/courselmirigsdotwet9ei9489ewutbeji.json')
+        fetch('https://raw.githubusercontent.com/jasimbdpro/tech-course-360/main/src/data/courselmirigsdotwet9ei9489ewutbeji.json')
             .then(response => response.json())
             .then(data => setCourse(data))
             .catch(error => alert('data is not loader'))
