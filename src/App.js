@@ -4,7 +4,7 @@ import BodyContent from './components/BodyContent/BodyContent';
 function App() {
   return (
     <div className="App">
-      <h2>Hello World, this is my react pratie project</h2>
+      <h2>Hello World, This is my react pratice project</h2>
       <hr />
       <BodyContent></BodyContent>
     </div>
